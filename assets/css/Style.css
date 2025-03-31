@@ -655,8 +655,10 @@ footer {
 }
 
     footer .footer-top {
-        background: #f9417a;
-        padding: 4rem 0;
+      background-image: url('../img/layers/man.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    color: #fff;
     }
 
         footer .footer-top .social-list {
